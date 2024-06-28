@@ -9,7 +9,7 @@
 <img alt="jsDelivr monthly hits badge" src="https://data.jsdelivr.com/v1/package/gh/prateek-chaubey/YTPro/badge">
 
 [![https://t.me/THE_REBEL_SQUAD](https://img.shields.io/badge/Telegram-Channel-orange.svg?style=flat-square)](https://t.me/THE_REBEL_SQUAD)
-[![https://t.me/THE_REBEL_SQUAD](https://img.shields.io/badge/Telegram-@th30neand0nly-blue.svg?style=flat-square)](https://t.me/THE_REBEL_SQUAD)
+[![https://t.me/THE_REBEL_SQUAD](https://img.shields.io/badge/Telegram-@THE_REBEL_SQUAD-blue.svg?style=flat-square)](https://t.me/THE_REBEL_SQUAD)
 
 </div>
 
@@ -23,7 +23,7 @@
 
 ## Download YT PRO
 
-[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-ff0000?style=for-the-badge&logo=download&logoColor=white "Download Apk")](https://github.com/prateek-chaubey/YTPro/releases/download/v2.3/YTPRO.apk)
+[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-ff0000?style=for-the-badge&logo=download&logoColor=white "Download Apk")](https://github.com/THE-REBEL-SQUAD/YoutubPremium/Download/YouTube.apk)
 
 ## Features
  * Video Downloader
